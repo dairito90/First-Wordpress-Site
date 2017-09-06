@@ -1,0 +1,116 @@
+/*------------------------------------------------
+	Text Color
+/-------------------------------------------------*/
+.main-navigation .current_page_item > a, 
+.main-navigation .current-menu-item > a, 
+.main-navigation .current_page_ancestor > a, 
+.main-navigation .current-menu-ancestor > a, 
+.main-navigation > ul > li.menu-item-has-children:hover > a,
+.nav-menu > li > a:hover, 
+.site-branding-text .site-title a:hover,
+.color-white a:hover, 
+.sandwich-item h4 a:hover,
+ul.products li h3 a:hover, 
+.hover-icons .fa:hover, 
+.site-info a:hover, 
+ul.trail-items li a:hover, 
+.single-product .shop-cart h4.return-to-shop a:hover, 
+.drink-menu ul li a:hover,
+span.woocommerce-Price-amount.amount, 
+span.amount,
+.btn-transparent:hover, 
+.btn-transparent:focus,
+.picker_close, 
+.picker_close:hover, 
+.picker_close:focus,
+.widget.widget_call_to_action ul li a:hover, 
+.contact-form-wrapper ul.address-block li a:hover,
+.page-title-desc,
+a.read-more:hover,
+.loader-container .fa,
+nav.portfolio-filter ul li a.active, 
+nav.portfolio-filter ul li a:hover,
+.portfolio-hover h4 a:hover,
+.portfolio-icons .fa:hover,
+.food-item span,
+.title-desc,
+.duration span, 
+.duration small,
+.related-recipe .entry-container h4 a:hover, 
+.memorable-night .entry-summary span.available-seats,
+.full-width h4.color-black a:hover,
+.single-product p.price,
+.star-rating ul li,
+.product_meta a:hover,
+.woocommerce-tabs li.active a,
+.shop-details span.price ins,
+.meta-links a:hover,
+ul.nav-tabs .active a,
+.cat-link,
+ul.ratings li,
+.entry-meta a:hover, 
+.single-post .entry-meta a:hover, 
+.single-post .entry-meta time:hover, 
+#secondary .widget a:hover,
+nav.navigation span.title,
+.author-name a:hover,
+a.url:hover,
+.reply a:hover,
+.reply a:hover:before,
+.choice h4 a:hover,
+.shop-details span.price,
+.team-content .star-rating i,
+.client-position {
+	color: #cd9c42;
+}
+
+/*------------------------------------------------
+	Background Color
+/-------------------------------------------------*/
+.main-navigation ul ul a:hover, 
+.main-navigation ul ul a.focus,
+.fill-black:hover, 
+.jetpack_subscription_widget input[type="submit"]:hover, 
+.fill-black:focus, 
+.jetpack_subscription_widget input[type="submit"]:focus, 
+.wpcf7 input[type="submit"]:hover, .wpcf7 input[type="submit"]:focus, 
+button.single_add_to_cart_button.button.alt:hover, 
+button.single_add_to_cart_button.button.alt:focus, 
+.rtb-booking-form button[type="submit"]:hover, 
+.rtb-booking-form button[type="submit"]:focus, 
+.backtotop:hover,
+.more-link.small-btn,
+input.input-text.qty.text,
+.shop-slider .slick-prev:hover, 
+.shop-slider .slick-next:hover,
+p.form-submit input#submit:hover,
+.nav-previous a:hover, 
+.nav-next a:hover,
+.nav-previous a:focus, 
+.nav-next a:focus,
+#slideshow .slick-prev.slick-arrow:hover,
+#slideshow .slick-next.slick-arrow:hover,
+.woocommerce table.shop_table thead {
+	background-color: #cd9c42;
+}
+
+/*------------------------------------------------
+	Border Color
+/-------------------------------------------------*/
+.main-slider-contents,
+.separator,
+.wpcf7 input:focus,
+.wpcf7 textarea:focus {
+	border-color: #cd9c42;
+}
+
+
+
+
+
+
+
+
+
+
+
